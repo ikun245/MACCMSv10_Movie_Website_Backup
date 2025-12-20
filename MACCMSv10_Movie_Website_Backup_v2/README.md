@@ -1,0 +1,32 @@
+# MACCMSv10_Movie_Website_Backup
+苹果cmsV10多影视资源站影视备份，快速导入mysql，避免浪费时间采集资源，让站长5分钟复制出一个完美的站
+
+- ## 视频采集 · 影视资源（排名不分先后，自行选择）
+- 茅台资源 | https://mtzy.me/
+- 豆瓣资源 | https://dbzy.tv/
+- 暴风资源 | https://bfzy2.tv/
+- 红牛资源 | https://hongniuzy.tv/
+- 光速资源 | https://guangsuzy.com/
+- 虎牙资源 | https://huyazy.com/
+- 豪华资源 | https://haohuazy.com/
+- 速播资源 | https://www.suboziyuan.net/
+- 新浪资源 | https://www.xinlangzy.net/
+- 金鹰资源 | https://jinyingzy.com/
+- 爱奇艺资源 | https://iqiyizy.com/
+- 牛牛资源 | https://niuniuzy.cc/
+- 金蝉资源 | https://zy.jinchancaiji.com/
+- 猫眼资源 | https://www.maoyanzy.com/
+- 火花资源 | https://cj.huohua.live/
+- 如意资源 | https://www.ryzy.tv/
+- 旺旺资源 | https://www.wwzy.tv/
+- 优质资源 | https://www.yzzy.tv/
+- 电影天堂 | http://dyttzy.tv/
+- 卧龙资源 | https://wolongzyw.com/
+- 淘片资源 | https://taopianzy.com/
+- iKun资源 | https://ikunzy.net/
+- 索尼资源 | https://suonizy.com/
+- 极速资源 | https://www.jisuzy.com/
+- 快车资源 | https://kuaichezy.com/
+- 魔都资源 | https://moduzy.com/
+- 无尽资源 | https://www.wujinzy.net/
+- 麒麟资源 | https://www.qilinzyz.com/ ***(付费，暂不提供)***
